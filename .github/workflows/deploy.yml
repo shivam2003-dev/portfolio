@@ -2,8 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main  # Set this to your default branch
+    # branches:
+    #   - main  # Set this to your default branch
   workflow_dispatch:
 
 permissions:
