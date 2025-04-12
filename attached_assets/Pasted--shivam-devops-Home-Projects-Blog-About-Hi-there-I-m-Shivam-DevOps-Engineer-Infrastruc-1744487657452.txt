@@ -1,0 +1,110 @@
+
+shivam@devops:~$
+Home
+Projects
+Blog
+About
+Hi there, I'm
+Shivam
+DevOps Engineer & Infrastructure Specialist
+I help organizations build robust, scalable infrastructure and streamline their development pipelines. Specializing in cloud automation, containerization, and CI/CD.
+
+View Projects
+More About Me
+bash
+#!/bin/bash
+echo "Hello, I'm Shivam"
+echo "DevOps Engineer specializing in infrastructure automation"
+echo "Let's build reliable, scalable systems together"
+# Skills & Expertise
+My technical toolkit includes various DevOps technologies and practices.
+
+Docker (Container)
+Kubernetes (Orchestration)
+Terraform (IaC)
+AWS (Cloud)
+CI/CD (Pipeline)
+Ansible (Configuration)
+Jenkins (Automation)
+Prometheus (Monitoring)
+Git (Version Control)
+Linux (OS)
+Python (Scripting)
+Bash (Scripting)
+# Featured Projects
+Here are some of my recent projects and contributions.
+
+Kubernetes Deployment Framework
+A framework for standardizing Kubernetes deployments across multiple environments with built-in security controls.
+
+Kubernetes
+Helm
+GitOps
+Security
+Source
+Infrastructure as Code Templates
+Collection of reusable Terraform modules for quick deployment of cloud infrastructure following best practices.
+
+Terraform
+AWS
+IaC
+Modules
+Source
+CI/CD Pipeline Automation
+A set of Jenkins pipelines and GitHub Actions workflows to automate testing and deployment processes.
+
+Jenkins
+GitHub Actions
+CI/CD
+Automation
+Source
+Monitoring Stack
+Comprehensive monitoring solution with Prometheus, Grafana, and alerting for infrastructure and applications.
+
+Prometheus
+Grafana
+Monitoring
+Alerting
+Source
+View all projects
+# Technical Articles
+Thoughts, tutorials, and insights on DevOps practices and tools.
+
+Kubernetes Secrets Management Best Practices
+2023-10-15
+A deep dive into secure handling of secrets in Kubernetes environments, with practical examples.
+
+Kubernetes
+Security
+Best Practices
+Building Reusable Terraform Modules for Your Organization
+2023-08-22
+How to structure Terraform code for maximum reusability while maintaining consistency across teams.
+
+Terraform
+IaC
+Best Practices
+Optimizing CI/CD Pipelines for Speed and Reliability
+2023-07-10
+Techniques to make your continuous integration and deployment processes faster and more dependable.
+
+CI/CD
+Performance
+DevOps
+Read more articles
+# Services
+Key areas where I can help your organization succeed.
+
+Infrastructure Automation
+Building cloud environments with infrastructure as code for reliability and scalability.
+
+CI/CD Pipeline Design
+Creating efficient delivery pipelines for faster, more reliable software releases.
+
+DevOps Consulting
+Helping teams implement DevOps practices and improve their development workflows.
+
+Container Orchestration
+Setting up and managing Kubernetes clusters for running containerized applications.
+
+© 2025 Shivam. Built with ♥️ using React.
