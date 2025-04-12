@@ -24,23 +24,23 @@ const Navbar = () => {
           <div>
             <ul className="hidden md:flex space-x-8">
               <li>
-                <Link href="/">
-                  <a className={`nav-link hover:text-secondary transition-colors ${location === '/' ? 'active' : ''}`}>Home</a>
+                <Link href="/" className={`nav-link hover:text-secondary transition-colors ${location === '/' ? 'active' : ''}`}>
+                  Home
                 </Link>
               </li>
               <li>
-                <Link href="/projects">
-                  <a className={`nav-link hover:text-secondary transition-colors ${location === '/projects' ? 'active' : ''}`}>Projects</a>
+                <Link href="/projects" className={`nav-link hover:text-secondary transition-colors ${location === '/projects' ? 'active' : ''}`}>
+                  Projects
                 </Link>
               </li>
               <li>
-                <Link href="/blog">
-                  <a className={`nav-link hover:text-secondary transition-colors ${location === '/blog' || location.startsWith('/blog/') ? 'active' : ''}`}>Blog</a>
+                <Link href="/blog" className={`nav-link hover:text-secondary transition-colors ${location === '/blog' || location.startsWith('/blog/') ? 'active' : ''}`}>
+                  Blog
                 </Link>
               </li>
               <li>
-                <Link href="/about">
-                  <a className={`nav-link hover:text-secondary transition-colors ${location === '/about' ? 'active' : ''}`}>About</a>
+                <Link href="/about" className={`nav-link hover:text-secondary transition-colors ${location === '/about' ? 'active' : ''}`}>
+                  About
                 </Link>
               </li>
             </ul>
@@ -59,23 +59,23 @@ const Navbar = () => {
           <div className="md:hidden mt-4 pb-2">
             <ul className="space-y-4">
               <li>
-                <Link href="/">
-                  <a className={`block py-2 hover:text-secondary transition-colors ${location === '/' ? 'text-secondary' : ''}`}>Home</a>
+                <Link href="/" className={`block py-2 hover:text-secondary transition-colors ${location === '/' ? 'text-secondary' : ''}`}>
+                  Home
                 </Link>
               </li>
               <li>
-                <Link href="/projects">
-                  <a className={`block py-2 hover:text-secondary transition-colors ${location === '/projects' ? 'text-secondary' : ''}`}>Projects</a>
+                <Link href="/projects" className={`block py-2 hover:text-secondary transition-colors ${location === '/projects' ? 'text-secondary' : ''}`}>
+                  Projects
                 </Link>
               </li>
               <li>
-                <Link href="/blog">
-                  <a className={`block py-2 hover:text-secondary transition-colors ${location === '/blog' || location.startsWith('/blog/') ? 'text-secondary' : ''}`}>Blog</a>
+                <Link href="/blog" className={`block py-2 hover:text-secondary transition-colors ${location === '/blog' || location.startsWith('/blog/') ? 'text-secondary' : ''}`}>
+                  Blog
                 </Link>
               </li>
               <li>
-                <Link href="/about">
-                  <a className={`block py-2 hover:text-secondary transition-colors ${location === '/about' ? 'text-secondary' : ''}`}>About</a>
+                <Link href="/about" className={`block py-2 hover:text-secondary transition-colors ${location === '/about' ? 'text-secondary' : ''}`}>
+                  About
                 </Link>
               </li>
             </ul>
