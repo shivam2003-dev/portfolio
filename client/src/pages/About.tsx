@@ -103,6 +103,7 @@ const About = () => {
                   </ul>
                 </div>
                 
+                {/*
                 <div className="border-l-2 border-green-500 pl-4 relative hover:bg-black/30 p-2 rounded transition-colors">
                   <div className="absolute -left-1.5 top-0 w-3 h-3 rounded-full bg-green-500"></div>
                   <div className="font-mono bg-black inline-block px-2 py-0.5 text-xs text-green-400 rounded mb-2 border border-green-800">2018 - 2020</div>
@@ -130,7 +131,9 @@ const About = () => {
                 </div>
               </div>
             </div>
-            
+           */}
+
+                
             <div className="bg-gray-900 border border-gray-800 p-6 rounded-md relative">
               <div className="flex items-center mb-6">
                 <Mail className="h-5 w-5 text-green-500 mr-2" />
@@ -151,7 +154,7 @@ const About = () => {
                   <Mail className="h-6 w-6 group-hover:animate-pulse" />
                 </a>
                 <a 
-                  href="https://github.com/" 
+                  href="https://github.com/shivam2003-dev/" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-gray-400 hover:text-green-400 transition-colors group"
@@ -160,7 +163,7 @@ const About = () => {
                   <Github className="h-6 w-6 group-hover:animate-pulse" />
                 </a>
                 <a 
-                  href="https://linkedin.com/in/" 
+                  href="https://www.linkedin.com/in/shivam-kumar2003/" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-gray-400 hover:text-green-400 transition-colors group"
@@ -279,11 +282,11 @@ const About = () => {
               <ul className="space-y-3">
                 <li className="flex items-start">
                   <MapPin className="text-green-500 mt-1 mr-3 h-5 w-5 flex-shrink-0" />
-                  <span>Based in Bengaluru, India</span>
+                  <span>Based in Delhi, India</span>
                 </li>
                 <li className="flex items-start">
                   <Briefcase className="text-green-500 mt-1 mr-3 h-5 w-5 flex-shrink-0" />
-                  <span>7+ years in DevSecOps</span>
+                  <span>1+ years in DevSecOps</span>
                 </li>
                 <li className="flex items-start">
                   <Globe className="text-green-500 mt-1 mr-3 h-5 w-5 flex-shrink-0" />
@@ -295,7 +298,7 @@ const About = () => {
                 </li>
                 <li className="flex items-start">
                   <GraduationCap className="text-green-500 mt-1 mr-3 h-5 w-5 flex-shrink-0" />
-                  <span>B.Tech in Computer Science (2016)</span>
+                  <span>B.Tech in Computer Science (2024)</span>
                 </li>
               </ul>
             </div>
