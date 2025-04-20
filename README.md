@@ -2,7 +2,8 @@
 
 A customizable portfolio website with a cybersecurity/hacker theme, designed for DevSecOps engineers and security specialists. Built with React, Tailwind CSS, and ready for deployment to GitHub Pages.
 
-![Portfolio Preview](attached_assets/portfolio-preview.png)
+![image](https://github.com/user-attachments/assets/a892a0f0-db1c-4f1f-90a1-fba0a808dccc)
+
 
 ## Features
 
