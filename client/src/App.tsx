@@ -17,7 +17,7 @@ function Router() {
       <Navbar />
       <div className="flex-grow">
         <Switch>
-          <Route path="/" component={Home} />
+          <Route path="/portfolio" component={Home} />
           <Route path="/projects" component={Projects} />
           <Route path="/blog" component={Blog} />
           <Route path="/blog/:slug" component={BlogPost} />
