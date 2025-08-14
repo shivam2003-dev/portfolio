@@ -1,4 +1,4 @@
-# DevSecOps Portfolio Website
+# DevSecOps Portfolio Website - Shivam
 
 A customizable portfolio website with a cybersecurity/hacker theme, designed for DevSecOps engineers and security specialists. Built with React, Tailwind CSS, and ready for deployment to GitHub Pages.
 
